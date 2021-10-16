@@ -16,3 +16,4 @@ hello eugeneli
 hello eugeneli hot-fix a
 
 我在远程库进行了修改啦
+ssh fuck
